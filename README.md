@@ -3,3 +3,5 @@ Educational only Implementation of CHA_CHA_20 (Round) Function introduced by Dan
 Written as per the specification supplied by person above + more.
 
 In the future, Salsa 20 Stream Cipher should be added!
+
+08/03/2023: Expansion Functions Added
